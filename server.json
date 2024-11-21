@@ -1,3 +1,9 @@
 {
-    "schedules": []
+  "schedules": [
+    {
+      "id": 1732227961282,
+      "name": "Leonardo",
+      "when": "2024-11-21T23:00:00.000Z"
+    }
+  ]
 }
